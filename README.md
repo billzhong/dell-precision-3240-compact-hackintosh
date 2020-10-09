@@ -20,7 +20,7 @@
 
 | Component     | Version |
 | ------------- | ------- |
-| Dell BIOS | 1.1.1 |
+| Dell BIOS     | 1.1.1   |
 | macOS         | 10.15.7 - 10.16 |
 | SMBIOS        | iMac20,1|
 | OpenCore      | 0.6.2   |
@@ -36,7 +36,7 @@ You need use [RU](http://ruexe.blogspot.com) to change following offsets:
 
 | UEFI Variable | Offset | Value | Comment       |
 | ------------- | ------ | ----- | ------------- |
-| SaSetup       | 0xF5   | 0x2   | DMVT: 64M     |
+| SaSetup       | 0xF5   | 0x2   | DVMT: 64M     |
 | CpuSetup      | 0x3E   | 0x0   | CFG Lock: OFF |
 
 And change following settings in BIOS:
