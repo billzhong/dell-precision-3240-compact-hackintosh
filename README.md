@@ -32,7 +32,7 @@
 
 ### BIOS
 
-You need use [RU](http://ruexe.blogspot.com) to change following offsets:
+You need to use [RU](http://ruexe.blogspot.com) to change following offsets:
 
 | UEFI Variable | Offset | Value | Comment       |
 | ------------- | ------ | ----- | ------------- |
@@ -63,7 +63,7 @@ And change following settings in BIOS:
 
 
 ## Partial working
-- Sound
+- Audio
 
 ## Not working
 - DRM
