@@ -21,7 +21,7 @@
 | Component     | Version |
 | ------------- | ------- |
 | Dell BIOS     | 1.1.1   |
-| macOS         | 10.15.7 - 10.16 |
+| macOS         | 10.15.7 - 11.0 beta9 |
 | SMBIOS        | iMac20,1|
 | OpenCore      | 0.6.2   |
 | Lilu          | 1.4.8   |
@@ -32,7 +32,7 @@
 
 ### BIOS
 
-You need use [RU](http://ruexe.blogspot.com) to change following offsets:
+You need to use [RU](http://ruexe.blogspot.com) to change following offsets:
 
 | UEFI Variable | Offset | Value | Comment       |
 | ------------- | ------ | ----- | ------------- |
@@ -63,7 +63,7 @@ And change following settings in BIOS:
 
 
 ## Partial working
-- Sound
+- Audio
 
 ## Not working
 - DRM
