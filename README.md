@@ -14,7 +14,7 @@
 | Memory    | G.SKILL 3200Mhz / SK Hynix 3200Mhz |
 | Sound     | ALC3246 (ALC256)                   |
 | Wireless  | BCM94360NG / BCM94360CS2           |
-| Monitor   | LG 4K Ultra HD                     |
+| Monitor   | 2 * LG 4K Ultra HD                 |
 
 ### Software
 
@@ -23,10 +23,10 @@
 | Dell BIOS     | 1.1.1   |
 | macOS         | 10.15.7 - 11.0.1 |
 | SMBIOS        | iMac20,1|
-| OpenCore      | 0.6.2   |
-| Lilu          | 1.4.8   |
-| VirtualSMC    | 1.1.7   |
-| WhateverGreen | 1.4.3   |
+| OpenCore      | 0.6.3   |
+| Lilu          | 1.4.9   |
+| VirtualSMC    | 1.1.8   |
+| WhateverGreen | 1.4.4   |
 | IntelMausi    | 1.0.4   |
 | VoodooHDA     | 2.9.4   |
 
