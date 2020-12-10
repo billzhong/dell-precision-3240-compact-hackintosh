@@ -20,13 +20,13 @@
 
 | Component     | Version |
 | ------------- | ------- |
-| Dell BIOS     | 1.1.1   |
+| Dell BIOS     | 1.2.0   |
 | macOS         | 10.15.7 - 11.0.1 |
 | SMBIOS        | iMac20,1|
-| OpenCore      | 0.6.3   |
-| Lilu          | 1.4.9   |
-| VirtualSMC    | 1.1.8   |
-| WhateverGreen | 1.4.4   |
+| OpenCore      | 0.6.4   |
+| Lilu          | 1.5.0   |
+| VirtualSMC    | 1.1.9   |
+| WhateverGreen | 1.4.5   |
 | IntelMausi    | 1.0.4   |
 | VoodooHDA     | 2.9.4   |
 
@@ -53,7 +53,7 @@ And change following settings in BIOS:
 
 ## Working
 
-- 4K @ 60Hz for both DisplayPort
+- 4K UHD @ 60Hz for both DisplayPort
 - All USB ports (2.0, 3.0 and Type C)
 - Sleep, wake up and power nap
 - Hardware acceleration
@@ -67,5 +67,4 @@ And change following settings in BIOS:
 
 ## Not working
 - DRM
-
 
