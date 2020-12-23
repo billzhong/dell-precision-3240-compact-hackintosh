@@ -13,7 +13,7 @@
 | SSD       | XPG SX8200 / WD SN750              |
 | Memory    | G.SKILL 3200Mhz / SK Hynix 3200Mhz |
 | Sound     | ALC3246 (ALC256)                   |
-| Wireless  | BCM94360NG / BCM94360CS2           |
+| Wireless  | [BCM94360NG](https://s.click.aliexpress.com/e/_9zltft) |
 | Monitor   | 2 * LG 4K Ultra HD                 |
 
 ### Software
