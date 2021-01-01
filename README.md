@@ -1,34 +1,35 @@
 # Hackintosh for Dell Precision 3240 Compact
 
+> Also tested on Dell Precision 3440 Small Form Factor Workstation. Assuming it will work for Dell Precision 3640 Tower Workstation.
+
 ## Specs
 
 ### Hardware
 
-| Component | Tested                             |
-| --------- | ---------------------------------- |
-| CPU       | Core i5 10500 / 10600              |
-| Chipset   | Intel W480                         |
-| Graphics  | Intel UHD 630                      |
-| Ethernet  | Intel I219-LM                      |
-| SSD       | XPG SX8200 / WD SN750              |
-| Memory    | G.SKILL 3200Mhz / SK Hynix 3200Mhz |
-| Sound     | ALC3246 (ALC256)                   |
-| Wireless  | [BCM94360NG](https://s.click.aliexpress.com/e/_9zltft) |
-| Monitor   | 2 * LG 4K Ultra HD                 |
+| Component | Tested                                                                                                           |
+| --------- | ---------------------------------------------------------------------------------------------------------------- |
+| CPU       | Intel Core i3 / i5 / i7 10x00 (10th Gen)                                                                         |
+| Chipset   | Intel W480                                                                                                       |
+| Graphics  | Intel UHD 630                                                                                                    |
+| Ethernet  | Intel I219-LM                                                                                                    |
+| Memory    | SK Hynix / G.SKILL / Crucial                                                                                     |
+| SSD       | XPG SX8200 / WD SN750 / Samsung 970 Evo Plus                                                                     |
+| Sound     | ALC3246 (ALC256)                                                                                                 |
+| Wireless  | [BCM94360NG](https://s.click.aliexpress.com/e/_9zltft) / [BCM94360CS2](https://s.click.aliexpress.com/e/_ALfsCV) |
 
 ### Software
 
-| Component     | Version |
-| ------------- | ------- |
-| Dell BIOS     | 1.2.0   |
-| macOS         | 10.15.7 - 11.0.1 |
-| SMBIOS        | iMac20,1|
-| OpenCore      | 0.6.4   |
-| Lilu          | 1.5.0   |
-| VirtualSMC    | 1.1.9   |
-| WhateverGreen | 1.4.5   |
-| IntelMausi    | 1.0.4   |
-| VoodooHDA     | 2.9.4   |
+| Component     | Version        |
+| ------------- | -------------- |
+| Dell BIOS     | 1.2.0          |
+| macOS         | 10.15.7 - 11.1 |
+| SMBIOS        | iMac20,1       |
+| OpenCore      | 0.6.4          |
+| Lilu          | 1.5.0          |
+| VirtualSMC    | 1.1.9          |
+| WhateverGreen | 1.4.5          |
+| IntelMausi    | 1.0.4          |
+| VoodooHDA     | 2.9.4          |
 
 ### BIOS
 
@@ -57,14 +58,12 @@ And change following settings in BIOS:
 - All USB ports (2.0, 3.0 and Type C)
 - Sleep, wake up and power nap
 - Hardware acceleration
-- Wi-Fi and bluetooth
+- Wi-Fi and Bluetooth
 - AirPlay, Sidecar, Airdrop and Handoff
-- Internal SATA port
-
+- Internal SATA ports
 
 ## Partial working
 - Audio
 
 ## Not working
 - DRM
-
