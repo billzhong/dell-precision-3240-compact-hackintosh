@@ -1,6 +1,6 @@
 # Hackintosh for Dell Precision 3240 Compact
 
-> Also tested on Dell Precision 3440 Small Form Factor Workstation. Assuming it will work for Dell Precision 3640 Tower Workstation.
+Also tested on Dell Precision 3440 Small Form Factor Workstation. Assuming it will work for Dell Precision 3640 Tower Workstation.
 
 ## Specs
 
@@ -13,7 +13,7 @@
 | Graphics  | Intel UHD 630                                                                                                    |
 | Ethernet  | Intel I219-LM                                                                                                    |
 | Memory    | SK Hynix / G.SKILL / Crucial                                                                                     |
-| SSD       | XPG SX8200 / WD SN750 / Samsung 970 Evo Plus                                                                     |
+| NVMe      | XPG SX8200 / WD SN750 / Samsung 970 Evo Plus                                                                     |
 | Sound     | ALC3246 (ALC256)                                                                                                 |
 | Wireless  | [BCM94360NG](https://s.click.aliexpress.com/e/_9zltft) / [BCM94360CS2](https://s.click.aliexpress.com/e/_ALfsCV) |
 
@@ -67,3 +67,6 @@ And change following settings in BIOS:
 
 ## Not working
 - DRM
+
+### Similar projects
+[weblogix/hackintosh-dell-precision-3240-compact](https://github.com/weblogix/hackintosh-dell-precision-3240-compact)
