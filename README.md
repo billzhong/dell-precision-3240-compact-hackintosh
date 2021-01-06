@@ -24,12 +24,12 @@
 | Dell BIOS     | 1.2.0          |
 | macOS         | 10.15.7 - 11.1 |
 | SMBIOS        | iMac20,1       |
-| OpenCore      | 0.6.4          |
+| OpenCore      | 0.6.5          |
 | Lilu          | 1.5.0          |
 | VirtualSMC    | 1.1.9          |
-| WhateverGreen | 1.4.5          |
-| IntelMausi    | 1.0.4          |
-| VoodooHDA     | 2.9.4          |
+| WhateverGreen | 1.4.6          |
+| IntelMausi    | 1.0.5          |
+| VoodooHDA     | 2.9.6          |
 
 ### BIOS
 
