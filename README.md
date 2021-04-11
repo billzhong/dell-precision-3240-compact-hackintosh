@@ -19,17 +19,17 @@ Also tested on Dell Precision 3440 Small Form Factor Workstation. Assuming it wi
 
 ### Software
 
-| Component     | Version        |
-| ------------- | -------------- |
-| Dell BIOS     | 1.2.0          |
-| macOS         | 10.15.7 - 11.1 |
-| SMBIOS        | iMac20,1       |
-| OpenCore      | 0.6.5          |
-| Lilu          | 1.5.0          |
-| VirtualSMC    | 1.1.9          |
-| WhateverGreen | 1.4.6          |
-| IntelMausi    | 1.0.5          |
-| VoodooHDA     | 2.9.6          |
+| Component     | Version          |
+| ------------- | ---------------- |
+| Dell BIOS     | 1.2.0            |
+| macOS         | 10.15.7 - 11.2.3 |
+| SMBIOS        | iMac20,1         |
+| OpenCore      | 0.6.5            |
+| Lilu          | 1.5.2            |
+| VirtualSMC    | 1.2.2            |
+| WhateverGreen | 1.4.9            |
+| IntelMausi    | 1.0.5            |
+| VoodooHDA     | 2.9.6            |
 
 ### BIOS
 
