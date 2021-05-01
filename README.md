@@ -22,14 +22,14 @@ Also tested on Dell Precision 3440 Small Form Factor Workstation. Assuming it wi
 | Component     | Version          |
 | ------------- | ---------------- |
 | Dell BIOS     | 1.2.0            |
-| macOS         | 10.15.7 - 11.2.3 |
+| macOS         | 10.15.7 - 11.3   |
 | SMBIOS        | iMac20,1         |
 | OpenCore      | 0.6.5            |
 | Lilu          | 1.5.2            |
 | VirtualSMC    | 1.2.2            |
 | WhateverGreen | 1.4.9            |
 | IntelMausi    | 1.0.5            |
-| VoodooHDA     | 2.9.6            |
+| AppleALC      | 1.5.9            |
 
 ### BIOS
 
@@ -61,9 +61,6 @@ And change following settings in BIOS:
 - Wi-Fi and Bluetooth
 - AirPlay, Sidecar, Airdrop and Handoff
 - Internal SATA ports
-
-## Partial working
-- Audio
 
 ## Not working
 - DRM
